@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "lib": [
+      "ES2015.promise"
+    ],
+    "outDir": "dist",
+    "sourceRoot": "src",
+    "declaration": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strict": false
+  },
+  "exclude": ["node_modules"]
+}
