@@ -1,6 +1,6 @@
 {
   "name": "@mini-rpc/client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple but effective RPC framework. Both server and client.",
   "main": "index.js",
   "private": false,
