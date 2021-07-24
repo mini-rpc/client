@@ -7,7 +7,7 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
-    "postbuild": "cpx package.json dist/",
+    "postbuild": "cpx package.json dist/ && cpx README.md dist/",
     "test": "jest"
   },
   "repository": {
